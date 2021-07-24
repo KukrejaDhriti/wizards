@@ -11,3 +11,34 @@
     color: aliceblue;
     font-family: 'Pirata One', cursive;
 }
+
+.para_tag
+{
+    box-shadow: gray;
+    font-size: 20px;
+    color: rgb(12, 24, 134);
+    background-color: rgb(228, 220, 235);
+    width: 20%;
+    text-align: left;
+    border-radius: 20px;
+    padding-left: 5px;
+}
+
+.copy_right_footer
+{
+position: fixed;
+color: rgb(61, 23, 231);
+bottom: 0;
+width: 100%;
+background-color: grey;
+line-height: 3;
+text-align: center;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px rgb(3, 3, 14);
+    margin-top: 150px;
+}
